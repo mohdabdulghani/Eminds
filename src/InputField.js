@@ -10,10 +10,10 @@ class InputField extends Component {
       MAX_SERVER_LATENCY: 200,
       options: [],
     };
-    // this.inputRef = React.createRef();
+
   }
 
-  // ========== Mock Server Start =============
+  
 
   getRandomBool = (n) => {
     var maxRandomCoeff = 1000;
